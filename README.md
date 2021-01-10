@@ -1,1 +1,4 @@
 # PredictionSurvival
+In this project belongs to ship accidents industry of the data mining application areas. I used the passenger data of the titanic ship in this project. project’s goal is to accurately predict the surviving passengers on the titanic ship using machine learning algorithms. In this project belongs to ship accidents industry of the data mining application areas. I used to Support Vector Machine,Random Forest, Neural Network and CART Model  in decision Tree algorithm.
+
+There are 1309 passengers records data. I divided this into two as test and training data.Train.csv contains the details of a subset of the passengers on board (891 to be exact). The ‘test.csv’ dataset contains similar information but does not target label for each passenger.And I predicted whether the other 418 passengers on board (found in test.csv) survived. I download my dataset from the Kaggle site.
